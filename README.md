@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Deepanshus29<br>👀 I’m interested in Data Science<br>🌱 I’m currently learning Python,SQL<br>💞️ I’m looking to collaborate on Data Science Projects<br>📫 you can reach me on sharma.deepanshu.29@gmail.com
+👋 Hi, I’m Deepanshu Sharma<br>👀 I’m interested in Data Science<br>🌱 I’m currently learning Python,SQL<br>💞️ I’m looking to collaborate on Data Science Projects<br>📫 you can reach me on sharma.deepanshu.29@gmail.com
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepanshus29&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshus29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
